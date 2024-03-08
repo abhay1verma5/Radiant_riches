@@ -2,7 +2,7 @@
 
 To get started with the Koinx Dashboard:
 
-1. Clone this repository: `git clone https://github.com/abhay1verma5/koinx`
+1. Clone this repository: `git clone https://github.com/abhay1verma5/Radiant_riches/`
   
 2. Install dependencies:
   
